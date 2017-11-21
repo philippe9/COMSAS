@@ -1,0 +1,54 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 28 déc. 2016, 22:08:23
+    Author     : Jefcolbi
+*/
+
+nav ul {
+    list-style-type: none;
+    margin: 0px 40px 0 0;
+    padding: 0;
+    background-color: orange;
+    border-left: 1px solid black;
+    display: block;
+}
+
+nav ul li {
+    display: inline;
+    min-width: 50px;
+    float: left;
+    padding: 10px 20px 10px 20px;
+    border-right: 3px solid black;
+}
+
+nav ul li:hover ul{
+    display: block;
+}
+
+
+header, nav, footer, #principale{
+    clear:both;
+    align-content: center;
+    text-align: center;
+}
+
+header img{
+    width: 300px;
+}
+
+form label{
+    min-width: 50px;
+    text-align: left;
+}
+
+nav ul li ul{
+    display: none;
+}
+
+.liste-events{
+    text-align: left;
+}

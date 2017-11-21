@@ -1,0 +1,1306 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"val",
+				"value=\"add"
+			],
+			[
+				"typ",
+				"type=\"hidden"
+			],
+			[
+				"Aff",
+				"AffichFilleul〔class〕"
+			],
+			[
+				"se",
+				"sexe"
+			],
+			[
+				"col",
+				"col-sm-6"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"fil",
+				"filleul"
+			],
+			[
+				"nu",
+				"$numero〔variable〕"
+			],
+			[
+				"num",
+				"numero"
+			],
+			[
+				"inc",
+				"include_once〔keyword〕"
+			],
+			[
+				"tex",
+				"text-center"
+			],
+			[
+				"col-",
+				"col-sm-4"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"cor",
+				"$corps〔variable〕"
+			],
+			[
+				"id_",
+				"id_utilisateur"
+			],
+			[
+				"_S",
+				"$_SESSION〔variable〕"
+			],
+			[
+				"res",
+				"resume"
+			],
+			[
+				"pri",
+				"print_r"
+			],
+			[
+				"pa",
+				"$part〔variable〕"
+			],
+			[
+				"er",
+				"$erreur〔variable〕"
+			],
+			[
+				"tar",
+				"$target_file〔variable〕"
+			],
+			[
+				"Affic",
+				"AffichPartenaire〔class〕"
+			],
+			[
+				"ra",
+				"$raison〔variable〕"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"em",
+				"$email〔variable〕"
+			],
+			[
+				"con",
+				"connected"
+			],
+			[
+				"sess",
+				"session_start〔function〕"
+			],
+			[
+				"Conn",
+				"Connexion〔class〕"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"us",
+				"$username〔variable〕"
+			],
+			[
+				"an",
+				"$annee〔variable〕"
+			],
+			[
+				"incl",
+				"includes"
+			],
+			[
+				"mem",
+				"membre"
+			],
+			[
+				"me",
+				"membres"
+			],
+			[
+				"id",
+				"id_utilisateur"
+			],
+			[
+				"m",
+				"membre"
+			],
+			[
+				"fech",
+				"fetchAll"
+			],
+			[
+				"id_pro",
+				"id_projet"
+			],
+			[
+				"Proj",
+				"Projet"
+			],
+			[
+				"eve",
+				"evenement"
+			],
+			[
+				"co",
+				"corps"
+			],
+			[
+				"da",
+				"date"
+			],
+			[
+				"fi",
+				"$fichier〔variable〕"
+			],
+			[
+				"n",
+				"niveau"
+			],
+			[
+				"pos",
+				"posteur"
+			],
+			[
+				"pro",
+				"$professeur〔variable〕"
+			],
+			[
+				"p",
+				"professeur〔variable〕"
+			],
+			[
+				"part",
+				"partenaire"
+			],
+			[
+				"cr",
+				"$createur〔variable〕"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"ni",
+				"$niveau〔variable〕"
+			],
+			[
+				"pr",
+				"$prenom〔variable〕"
+			],
+			[
+				"don",
+				"$donnees〔variable〕"
+			],
+			[
+				"U",
+				"Utilisateur〔class〕"
+			],
+			[
+				"pas",
+				"$password〔variable〕"
+			],
+			[
+				"Util",
+				"Utilitaires〔class〕"
+			],
+			[
+				"whi",
+				"white-text"
+			],
+			[
+				"bor",
+				"border-width"
+			],
+			[
+				"cat",
+				"categorie"
+			],
+			[
+				"Actua",
+				"Actualités"
+			],
+			[
+				"l",
+				"lister_min〔function〕"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"bro",
+				"border-width"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"Fron",
+				"FronCours〔class〕"
+			],
+			[
+				"mo",
+				"mots"
+			],
+			[
+				"cod",
+				"codesample"
+			],
+			[
+				"lan",
+				"$langage〔variable〕"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"uns",
+				"unset〔function〕"
+			],
+			[
+				"cou",
+				"$cours〔variable〕"
+			],
+			[
+				"mots",
+				"mots_cles"
+			],
+			[
+				"Mboa",
+				"Mboatek"
+			],
+			[
+				"Mb",
+				"Mboatek"
+			],
+			[
+				"desc",
+				"description"
+			],
+			[
+				"ch",
+				"chap_list"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"border-s",
+				"border-style"
+			],
+			[
+				"ov",
+				"ovy\toverflow-y: ${1:hidden};"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"text",
+				"text-decoration-line"
+			],
+			[
+				"h",
+				"h6\tTag"
+			],
+			[
+				"FronC",
+				"FronCours〔class〕"
+			],
+			[
+				"d",
+				"disc"
+			],
+			[
+				"fun",
+				"function〔keyword〕"
+			],
+			[
+				"lis",
+				"$liste_chaps〔variable〕"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"f_",
+				"$f_cr〔variable〕"
+			],
+			[
+				"is_nu",
+				"is_numeric〔function〕"
+			],
+			[
+				"id_a",
+				"id_admin"
+			],
+			[
+				"fet",
+				"fetch"
+			],
+			[
+				"id_ch",
+				"id_chapitre"
+			],
+			[
+				"c",
+				"cours"
+			],
+			[
+				"id_c",
+				"id_chapitre"
+			],
+			[
+				"is_n",
+				"is_numeric〔function〕"
+			],
+			[
+				"art",
+				"article"
+			],
+			[
+				"chap",
+				"chapitre"
+			],
+			[
+				"Ch",
+				"Chapitre"
+			],
+			[
+				"ex",
+				"execute"
+			],
+			[
+				"is",
+				"is_integer"
+			],
+			[
+				"publi",
+				"publie_par"
+			],
+			[
+				"au",
+				"$auteur〔variable〕"
+			],
+			[
+				"pub",
+				"public〔keyword〕"
+			],
+			[
+				"vis",
+				"$visible〔variable〕"
+			],
+			[
+				"re",
+				"resume=:resume"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"include",
+				"include_once〔keyword〕"
+			],
+			[
+				"nom",
+				"$nom_art〔variable〕"
+			],
+			[
+				"ar",
+				"$art〔variable〕"
+			],
+			[
+				"F",
+				"Facebook"
+			],
+			[
+				"li",
+				"lister〔function〕"
+			],
+			[
+				"na",
+				"name=\"mode"
+			],
+			[
+				"glo",
+				"global〔keyword〕"
+			],
+			[
+				"req",
+				"req_str"
+			],
+			[
+				"el",
+				"elseif"
+			],
+			[
+				"mode",
+				"$mode〔variable〕"
+			],
+			[
+				"print",
+				"print_r〔function〕"
+			],
+			[
+				"Fr",
+				"FronArticle"
+			],
+			[
+				"modi",
+				"modifier"
+			],
+			[
+				"des",
+				"$description〔variable〕"
+			],
+			[
+				"bind",
+				"bindValue"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 10716,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "propos.php",
+			"settings":
+			{
+				"buffer_size": 4323,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "#include <stdio.h>\n#include <stdlib.h>\n\nint main()\n{\nint i=0,n=0,tab[100],t1=tab[100],t2=tab[100];\n    printf(\"Hello world!\\n\");\n    printf(\"entrer votre nombre\\n\");\n    scanf(\"%d\",&n);\n    for(i=0;i<n;i++)\n    {\n    t2[i]=0;\n    }\n    printf(\"%d\",t2[i]);\n    for(i=0;i<n+1;i++)\n     {\n     for(j=0;j<i;j++)\n         {\n          t1[j]=t2[j];\n         }\n         t2[1]=1;\n         t2[i]=1;\n         printf(\"%d\",t2[1]);\n         printf(\"%d\",t2[i]);\n\n                    for(j=2;j<i-1;j++)\n                             {\n                                 t2[j]=t1[j-1]+t1[j];\n                             }\n                                 printf(\"%d\",t2[j]);\n\n                                      for(j=0;j<i;j++)\n                                           {\n                                              printf(\"%d\",t2[j]);\n                                           }\n                                              printf(\"%d\",t2[j]);\n        }\n\n    return 0;\n}\n",
+			"file": "/C/Users/Jefcolbi/Downloads/Telegram Desktop/main (3).c",
+			"file_size": 1441,
+			"file_write_time": 131554366820047565,
+			"settings":
+			{
+				"buffer_size": 961,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "includes/front_classes.php",
+			"settings":
+			{
+				"buffer_size": 15880,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "includes/classes.php",
+			"settings":
+			{
+				"buffer_size": 28847,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "parrain.php",
+			"settings":
+			{
+				"buffer_size": 4514,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "project.php",
+			"settings":
+			{
+				"buffer_size": 15448,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": ".no-padding {\n  padding-left: 0;\n  padding-right: 0;\n}\n\n.no-margin{\n\tpadding: 0px;\n}\n\n.img-responsive{\n\twidth: 100%;\n}\n\n",
+			"file": "css/custom.css",
+			"file_size": 129,
+			"file_write_time": 131549683326021384,
+			"settings":
+			{
+				"buffer_size": 120,
+				"line_ending": "Windows",
+				"name": ".no-padding {"
+			}
+		},
+		{
+			"file": "/C/wamp/www/sms/cours.php",
+			"settings":
+			{
+				"buffer_size": 5451,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 150.0,
+		"last_filter": "PHP Code Sniffer: ",
+		"selected_items":
+		[
+			[
+				"PHP Code Sniffer: ",
+				"PHP Code Sniffer: Switch coding standard"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/wamp/www/comsas",
+		"/C/wamp/www/comsas/css",
+		"/C/wamp/www/comsas/includes"
+	],
+	"file_history":
+	[
+		"/D/Projets/Cpp Projects/Connect/driver.cpp",
+		"/C/wamp/www/mboatech/includes/classes.php",
+		"/C/wamp/www/sms/includes/utils.php",
+		"/C/wamp/www/mboatech/admin/login.php",
+		"/C/wamp/www/sms/includes/bd.php",
+		"/C/wamp/www/mboatech/admin/article.php",
+		"/C/wamp/www/sms/article.php",
+		"/C/wamp/bin/apache/apache2.4.18/bin/php.ini",
+		"/D/Projets/SmsOnPC/smsOnPC/modemdriver.cpp",
+		"/C/wamp/www/sms/partner.php",
+		"/C/wamp/www/sms/signup.php",
+		"/C/wamp/www/sms/index.php",
+		"/C/wamp/www/sms/cours.php",
+		"/C/wamp/www/sms/includes/front_classes.php",
+		"/C/wamp/www/sms/includes/secu.php",
+		"/C/wamp/www/sms/login.php",
+		"/C/wamp/www/mboatech/includes/fron_classes.php",
+		"/C/wamp/www/sms/conception/Formulaire inscription",
+		"/C/wamp/www/sms/includes/classes.php",
+		"/C/wamp/bin/apache/apache2.4.18/conf/extra/httpd-vhosts.conf",
+		"/C/wamp/www/mboatech/admin/includes/fron_classes.php",
+		"/C/wamp/logs/apache_error.log",
+		"/C/wamp/www/mboatech/admin/categorie.php",
+		"/C/wamp/www/mboatech/css/prism-2.css",
+		"/C/wamp/www/mboatech/admin/js/tiny.js",
+		"/C/wamp/www/mboatech/actus.php",
+		"/C/wamp/www/mboatech/articles/Android X86 - 1",
+		"/C/wamp/www/mboatech/articles/Apprendre le C - Chapitre 0.docx",
+		"/C/wamp/www/mboatech/articles/Apprendre le C - Chapitre 3.docx",
+		"/C/Users/Jefcolbi/Downloads/mboatech.sql",
+		"/C/wamp/www/mboatech/sitemap.xml",
+		"/C/wamp/www/mboatech/css/default.css",
+		"/C/wamp/www/mboatech/chapitre.php",
+		"/C/wamp/www/mboatech/article.php",
+		"/C/wamp/www/sms/admin/admin.php",
+		"/D/Projets/SmsOnPC/smsOnPC/Docs/source-archive/smspdu-cpp/trunk/src/main.cpp",
+		"/C/Users/Jefcolbi/Desktop/res1.txt",
+		"/C/Users/Jefcolbi/Desktop/cris.txt",
+		"/C/Users/Jefcolbi/Desktop/animaux.txt",
+		"/C/wamp/www/mboatech/articles/Apprendre le C moderne",
+		"/C/wamp/www/mboatech/cours.php",
+		"/C/wamp/www/mboatech/admin/chapitre.php",
+		"/C/wamp/www/mboatech/admin/cours.php",
+		"/C/wamp/www/mboatech/articles/Introduction",
+		"/C/wamp/www/mboatech/admin/user.php",
+		"/C/wamp/www/mboatech/includes/function.php",
+		"/C/wamp/www/mboatech/admin/index.php",
+		"/C/wamp/www/mboatech/includes/bd.php",
+		"/C/wamp/www/mboatech/index.php",
+		"/C/wamp/www/mboatech/articles/Apprendre le C - Chapitre 4.docx",
+		"/C/wamp/www/mboatech/css/prism-1.css",
+		"/C/wamp/www/mboatech/css/prism.css",
+		"/C/ProgramData/Microsoft/Windows/Start Menu/Programs/OpenVPN/OpenVPN GUI.lnk",
+		"/C/Users/Jefcolbi/Desktop/res.txt",
+		"/D/Projets/SmsOnPC/smsOnPC/Docs/smstools3-3.1.21/smstools3/src/Makefile",
+		"/D/Projets/SmsOnPC/smsOnPC/Docs/smstools3-3.1.21/smstools3/scripts/sendsms",
+		"/D/Projets/SmsOnPC/smsOnPC/Docs/smstools3-3.1.21/smstools3/examples/send_sms_unicode.sms",
+		"/D/Projets/SmsOnPC/smsOnPC/Docs/smstools3-3.1.21/smstools3/examples/send_sms.sms",
+		"/D/Projets/SmsOnPC/smsOnPC/Docs/source-archive/smspdu-cpp/wiki/TOC.wiki",
+		"/D/Libs/CSS/Materialize/Docs/Breadcrumbs - Materialize.html",
+		"/C/wamp/www/mboatech/articles/VPN - 1.txt",
+		"/C/wamp/www/sms/editeur/index.html",
+		"/C/wamp/www/sms/article3.php",
+		"/C/wamp/www/sms/includes/fonctions.inc",
+		"/C/wamp/www/sms/includes/connexiondb.inc",
+		"/C/wamp/www/mboatech/img/logo/c.jpg",
+		"/C/Users/Jefcolbi/Desktop/zazi publishing/edition.sql",
+		"/C/Program Files/OpenVPN/config/jeffvpn/de2.tcpvpn.com/de2.tcpvpn.com-443.ovpn",
+		"/D/Projets/psiphon-tunnel-core/psiphon/meekConn.go",
+		"/C/wamp/www/sms/comsas/accueil.html",
+		"/C/wamp/www/sms/PHPMailer-master/examples/gmail.phps",
+		"/F/comsa/include/fichier.php",
+		"/C/Users/Jefcolbi/AppData/Local/Temp/fz3temp-1/signup.php",
+		"/C/Users/Jefcolbi/Downloads/Mifi_conf.txt",
+		"/D/Projets/SmsOnPC/smsOnPC/Docs/smstools3-3.1.21/smstools3/src/pdu.h",
+		"/C/Users/Jefcolbi/Documents/regions.txt",
+		"/C/wamp/www/sms/css/style.css",
+		"/C/wamp/www/sms/css/custom.css",
+		"/D/current",
+		"/D/Projets/Comsas-site/conception/fonctions.txt",
+		"/D/Projets/MamaTest/lisez moi.txt",
+		"/C/wamp/www/sms/template/frontend.php",
+		"/C/Users/Jefcolbi/AppData/Roaming/Sublime Text 3/Packages/User/phpcs.sublime-settings",
+		"/D/WTPTP/L02BUganda1_M023_LCD_V003_8801_2.144.000_20161117_1030_SIGN/SWD/Nezha_MiFi5_LWG_Only_Nontrusted.blf",
+		"/D/WTPTP/L02C_M028T_VodafoneCameroon/Cameroon/Nezha_MiFi5_LWG_Only_Nontrusted.blf",
+		"/C/Users/Jefcolbi/Desktop/psiphon.config",
+		"/D/WTPTP/MY2108_V005 +M028T(SkyLark,L0DE_LED,ntim_ddr) for L02D/SWD/Nezha_MiFi5_LWG_Only_Nontrusted.blf",
+		"/D/WTPTP/L02BZFM4_M023J_LCD_V001_8801_3.160.000_20170217_1400/SWD/Nezha_MiFi5_LTG_Only_Nontrusted.blf",
+		"/D/WTPTP/L02C_M028T_VodafoneCameroon/Cameroon/Nezha_MiFi5_LWG_Only_Nontrusted - Copie.blf",
+		"/D/WTPTP/backup/Nezha_MiFi5_LWG_Only_Nontrusted.blf",
+		"/C/Users/Jefcolbi/Downloads/Mifi_config.txt",
+		"/C/Users/Jefcolbi/Downloads/Mifi_config.bin",
+		"/C/Users/Jefcolbi/Desktop/MAYANPROPHECY.nfo",
+		"/D/WTPTP/Software_Downloader/Utilities/RomCopy/RomCopy_Readme.txt",
+		"/D/WTPTP/GLOBE M022T FULL OPENLINE/SWD/Nezha_MiFi5_LWG_Only_Nontrusted.blf",
+		"/D/WTPTP/Software_Downloader/Utilities/RomCopy/MakeRomcDLPackage_Readme.txt",
+		"/D/WTPTP/Software_Downloader/Utilities/IFLSWD/WtptpDownLoad/ParaDefine.h",
+		"/D/WTPTP/Software_Downloader/Utilities/IFLSWD/WtptpDownLoad/WtptpDownLoad.h",
+		"/D/WTPTP/Software_Downloader/Utilities/IFLSWD/WtptpDownLoad/ErrorCode.h",
+		"/D/Projets/SmsOnPC/smsOnPC/ChatonPC/tools.c",
+		"/D/Projets/OrangeNew/Proxy/proxy2-master/setup_https_intercept.sh",
+		"/C/Users/Jefcolbi/Downloads/3 Free Payload 1.ehi",
+		"/D/Projets/SmsOnPC/smsOnPC/contact.cpp",
+		"/C/Users/Jefcolbi/AppData/Local/Your Freedom/ems.cfg",
+		"/D/Projets/SmsOnPC/smsOnPC/Readme.md",
+		"/D/Projets/SmsOnPC/build-smsOnPC-Desktop_Qt_5_6_1_MinGW_32bit-Debug/debug/moc_mainwindow.cpp",
+		"/C/Users/Jefcolbi/Desktop/Decompiled APKs/free.unblock.vpnpro_2017-05-29_2.apk/smali/free/unblock/vpnpro/service/xSocksVpnService.smali",
+		"/C/Users/Jefcolbi/Downloads/Documents/TP/puissance.pl",
+		"/C/Users/Jefcolbi/Downloads/Documents/TP/expo.pl",
+		"/C/Users/Jefcolbi/Downloads/Documents/TP/genea.pl",
+		"/C/Users/Jefcolbi/Downloads/Telegram Desktop/Exercice 3.1 - puissance.pl",
+		"/D/site departement 1/comsas/comsa/page/confirm.php",
+		"/D/site departement 1/comsas/comsa/page/register.php",
+		"/D/site departement 1/comsas/comsa/include/class.php",
+		"/C/wamp/www/sport/admin/fonctions.inc",
+		"/D/site departement 1/comsas/comsa/include/file.php",
+		"/D/site departement 1/comsas/comsa/include/fonction.php",
+		"/C/Users/Jefcolbi/Desktop/Decompiled APKs/xp-psiphon-7_source_from_JADX/com/psiphon3/view/ConfigExporter.java",
+		"/C/Users/Jefcolbi/Desktop/Decompiled APKs/xp-psiphon-7_source_from_JADX/com/psiphon3/utils/Payload.java",
+		"/C/Users/Jefcolbi/Desktop/Decompiled APKs/xp-psiphon-7_source_from_JADX/com/tozny/crypto/android/AesCbcWithIntegrity.java",
+		"/C/wamp/www/sms/index3.php",
+		"/C/wamp/www/sms/js/scripts.js",
+		"/C/Go/src/net/http/transport.go",
+		"/D/Projets/psiphon-tunnel-core/ConsoleClient/re/ConsoleClient",
+		"/C/Go/src/github.com/Psiphon-Labs/psiphon-tunnel-core/psiphon/meekConn.go",
+		"/C/Go/src/github.com/Psiphon-Labs/psiphon-tunnel-core/psiphon/common/obfuscatedSshConn.go",
+		"/D/Projets/psiphon-tunnel-core/ConsoleClient/main.go",
+		"/C/Users/Jefcolbi/Desktop/sv_server.dat"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"D:\\Projets\\psiphon-tunnel-core",
+			"D:\\Projets\\psiphon-tunnel-core\\psiphon",
+			"D:\\Projets\\psiphon-tunnel-core\\psiphon\\common",
+			"",
+			"D:\\Projets\\psiphon-tunnel-core\\psiphon",
+			"D:\\Projets\\psiphon-tunnel-core\\goarista",
+			"D:\\Projets\\psiphon-tunnel-core\\crypto",
+			"D:\\Projets\\psiphon-tunnel-core",
+			"C:\\Users\\Jefcolbi\\Desktop\\Decompiled APKs\\xp-psiphon-7_source_from_JADX",
+			"C:\\Users\\Jefcolbi\\Desktop\\Decompiled APKs\\xp-psiphon-7_source_from_JADX\\com"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			" span-1-of-3",
+			"nom",
+			"\"fileToUpload\"",
+			"username",
+			"%3A",
+			"%2F",
+			"%22",
+			"%3D",
+			"%3E",
+			"%3C",
+			"+",
+			"fk_article_publie_admin",
+			"\");\n",
+			"h4",
+			"host",
+			");\n",
+			"\"",
+			"00",
+			"art",
+			"die(",
+			"art",
+			"article",
+			"cat",
+			">';",
+			"in",
+			"id_admin",
+			"?>\n",
+			"id_admin",
+			"input",
+			"        \n",
+			"slider",
+			"s4",
+			"projet-img",
+			"h5",
+			"regi",
+			"getConn",
+			"RoundTrip(req *http.Request)",
+			"RoundTrip(req",
+			"RoundTrip(req *http.Request)",
+			"transpo",
+			" RoundTrip",
+			"github.com",
+			"github.com/Psiphon-Labs/psiphon-tunnel-core/psiphon/common",
+			".xp",
+			"new.xp",
+			"com.tozny.crypto.android",
+			"com.tozny.crypto.android;",
+			"img1",
+			"bodyar",
+			"body",
+			"arti1",
+			"arti",
+			"connect",
+			"para6",
+			"image",
+			"''Mozilla",
+			"api/user/login",
+			"login",
+			"heart",
+			"base64Decod",
+			"base64DecodeChars",
+			"SHA256",
+			"g_base64EncodeChars",
+			"api/user/login",
+			"/api/user/login",
+			"g_requestVerificationToken",
+			"100401",
+			"saveAjaxData",
+			"/api/user/login",
+			"lien",
+			"zend",
+			")"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": true,
+		"regex": false,
+		"replace_history":
+		[
+			"-sm-4",
+			"corps",
+			"resume",
+			"titre",
+			"$nom",
+			"$logo",
+			"role",
+			"raison",
+			"annee",
+			":",
+			"/",
+			"\"",
+			"=",
+			">",
+			"<",
+			" ",
+			"",
+			"\\u00",
+			"\\00",
+			"cr",
+			"cours",
+			"cour",
+			"cours",
+			"article-img",
+			"my/github.com",
+			"D:\\Projets\\psiphon-tunnel-core\\psiphon\\common",
+			"connect-page",
+			"lic"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10716,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								10716
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 45.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "propos.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4323,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3216,
+								3216
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1125.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/Jefcolbi/Downloads/Telegram Desktop/main (3).c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 961,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								98,
+								53
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "includes/front_classes.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 15880,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								14793,
+								14793
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 3105.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "includes/classes.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 28847,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								26870,
+								26870
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3420.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "parrain.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4514,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3361,
+								3361
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1305.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "project.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 15448,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "css/custom.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 120,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								120,
+								120
+							]
+						],
+						"settings":
+						{
+							"auto_name": ".no-padding {",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Pastels on Dark.tmTheme",
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/C/wamp/www/sms/cours.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5451,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								218,
+								1718
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 648.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.9o://D:\\Projets\\psiphon-tunnel-core\\psiphon":
+	{
+		"height": 100.0
+	},
+	"output.GoSublime-main-output":
+	{
+		"height": 25.0
+	},
+	"output.GoSublime-output":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "comsas-project.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 218.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

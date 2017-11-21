@@ -1,0 +1,1834 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ac",
+				"active"
+			],
+			[
+				"Aff",
+				"AffichArticle〔class〕"
+			],
+			[
+				"cor",
+				"$corps〔variable〕"
+			],
+			[
+				"id_",
+				"id_utilisateur"
+			],
+			[
+				"_S",
+				"$_SESSION〔variable〕"
+			],
+			[
+				"res",
+				"resume"
+			],
+			[
+				"pri",
+				"print_r"
+			],
+			[
+				"pa",
+				"$part〔variable〕"
+			],
+			[
+				"er",
+				"$erreur〔variable〕"
+			],
+			[
+				"tar",
+				"$target_file〔variable〕"
+			],
+			[
+				"Affic",
+				"AffichPartenaire〔class〕"
+			],
+			[
+				"ra",
+				"$raison〔variable〕"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"em",
+				"$email〔variable〕"
+			],
+			[
+				"con",
+				"connected"
+			],
+			[
+				"sess",
+				"session_start〔function〕"
+			],
+			[
+				"Conn",
+				"Connexion〔class〕"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"us",
+				"$username〔variable〕"
+			],
+			[
+				"in",
+				"incl1\tinclude_once …"
+			],
+			[
+				"an",
+				"$annee〔variable〕"
+			],
+			[
+				"incl",
+				"includes"
+			],
+			[
+				"mem",
+				"membre"
+			],
+			[
+				"me",
+				"membres"
+			],
+			[
+				"id",
+				"id_utilisateur"
+			],
+			[
+				"m",
+				"membre"
+			],
+			[
+				"fech",
+				"fetchAll"
+			],
+			[
+				"id_pro",
+				"id_projet"
+			],
+			[
+				"Proj",
+				"Projet"
+			],
+			[
+				"eve",
+				"evenement"
+			],
+			[
+				"co",
+				"corps"
+			],
+			[
+				"da",
+				"date"
+			],
+			[
+				"fi",
+				"$fichier〔variable〕"
+			],
+			[
+				"n",
+				"niveau"
+			],
+			[
+				"pos",
+				"posteur"
+			],
+			[
+				"pro",
+				"$professeur〔variable〕"
+			],
+			[
+				"p",
+				"professeur〔variable〕"
+			],
+			[
+				"part",
+				"partenaire"
+			],
+			[
+				"cr",
+				"$createur〔variable〕"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"ni",
+				"$niveau〔variable〕"
+			],
+			[
+				"pr",
+				"$prenom〔variable〕"
+			],
+			[
+				"don",
+				"$donnees〔variable〕"
+			],
+			[
+				"U",
+				"Utilisateur〔class〕"
+			],
+			[
+				"pas",
+				"$password〔variable〕"
+			],
+			[
+				"Util",
+				"Utilitaires〔class〕"
+			],
+			[
+				"whi",
+				"white-text"
+			],
+			[
+				"bor",
+				"border-width"
+			],
+			[
+				"cat",
+				"categorie"
+			],
+			[
+				"Actua",
+				"Actualités"
+			],
+			[
+				"l",
+				"lister_min〔function〕"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"bro",
+				"border-width"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"Fron",
+				"FronCours〔class〕"
+			],
+			[
+				"mo",
+				"mots"
+			],
+			[
+				"cod",
+				"codesample"
+			],
+			[
+				"lan",
+				"$langage〔variable〕"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"uns",
+				"unset〔function〕"
+			],
+			[
+				"cou",
+				"$cours〔variable〕"
+			],
+			[
+				"mots",
+				"mots_cles"
+			],
+			[
+				"Mboa",
+				"Mboatek"
+			],
+			[
+				"Mb",
+				"Mboatek"
+			],
+			[
+				"desc",
+				"description"
+			],
+			[
+				"tex",
+				"type=\"text"
+			],
+			[
+				"ch",
+				"chap_list"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"border-s",
+				"border-style"
+			],
+			[
+				"ov",
+				"ovy\toverflow-y: ${1:hidden};"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"text",
+				"text-decoration-line"
+			],
+			[
+				"h",
+				"h6\tTag"
+			],
+			[
+				"FronC",
+				"FronCours〔class〕"
+			],
+			[
+				"d",
+				"disc"
+			],
+			[
+				"fun",
+				"function〔keyword〕"
+			],
+			[
+				"lis",
+				"$liste_chaps〔variable〕"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"f_",
+				"$f_cr〔variable〕"
+			],
+			[
+				"is_nu",
+				"is_numeric〔function〕"
+			],
+			[
+				"id_a",
+				"id_admin"
+			],
+			[
+				"fet",
+				"fetch"
+			],
+			[
+				"id_ch",
+				"id_chapitre"
+			],
+			[
+				"c",
+				"cours"
+			],
+			[
+				"id_c",
+				"id_chapitre"
+			],
+			[
+				"is_n",
+				"is_numeric〔function〕"
+			],
+			[
+				"art",
+				"article"
+			],
+			[
+				"chap",
+				"chapitre"
+			],
+			[
+				"Ch",
+				"Chapitre"
+			],
+			[
+				"ex",
+				"execute"
+			],
+			[
+				"is",
+				"is_integer"
+			],
+			[
+				"publi",
+				"publie_par"
+			],
+			[
+				"au",
+				"$auteur〔variable〕"
+			],
+			[
+				"pub",
+				"public〔keyword〕"
+			],
+			[
+				"vis",
+				"$visible〔variable〕"
+			],
+			[
+				"re",
+				"resume=:resume"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"include",
+				"include_once〔keyword〕"
+			],
+			[
+				"nom",
+				"$nom_art〔variable〕"
+			],
+			[
+				"ar",
+				"$art〔variable〕"
+			],
+			[
+				"F",
+				"Facebook"
+			],
+			[
+				"li",
+				"lister〔function〕"
+			],
+			[
+				"na",
+				"name=\"mode"
+			],
+			[
+				"glo",
+				"global〔keyword〕"
+			],
+			[
+				"req",
+				"req_str"
+			],
+			[
+				"el",
+				"elseif"
+			],
+			[
+				"mode",
+				"$mode〔variable〕"
+			],
+			[
+				"print",
+				"print_r〔function〕"
+			],
+			[
+				"Fr",
+				"FronArticle"
+			],
+			[
+				"modi",
+				"modifier"
+			],
+			[
+				"des",
+				"$description〔variable〕"
+			],
+			[
+				"bind",
+				"bindValue"
+			],
+			[
+				"bin",
+				"bindValue"
+			],
+			[
+				"nb",
+				"$nbre_arts〔variable〕"
+			],
+			[
+				"date",
+				"date_pub"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"ti",
+				"$titre〔variable〕"
+			],
+			[
+				"im",
+				"$image〔variable〕"
+			],
+			[
+				"_s",
+				"$_SESSION〔variable〕"
+			],
+			[
+				"tit",
+				"titre"
+			],
+			[
+				"fo",
+				"for\tAttr"
+			],
+			[
+				"mate",
+				"materialize"
+			],
+			[
+				"cate",
+				"$categorie〔variable〕"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/wamp/www/sms/includes/classes.php",
+			"settings":
+			{
+				"buffer_size": 25972,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/wamp/www/mboatech/includes/fron_classes.php",
+			"settings":
+			{
+				"buffer_size": 12840,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/wamp/www/sms/login.php",
+			"settings":
+			{
+				"buffer_size": 3724,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/wamp/www/sms/includes/secu.php",
+			"settings":
+			{
+				"buffer_size": 1032,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/wamp/www/sms/includes/front_classes.php",
+			"settings":
+			{
+				"buffer_size": 12762,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/wamp/www/sms/cours.php",
+			"settings":
+			{
+				"buffer_size": 5451,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "Package Control Messages\n========================\n\nColor Highlighter\n-----------------\n\n  NEW VERSION AVAILABLE!\n  \n  Color Highlighter was developed for many years and features were added without consideration.\n  As a result it has plenty of bugs and code is completely unmaintainable.\n  Because of it, I've decided to rewrite the plugin from scratch using all the good programming practices I learned over the years.\n  \n  Right now the new version is still in the alpha stage, but it's very stable and just doesn't have several features of the current version.\n  If you want to help the development, please check out the announce here https://github.com/Monnoroch/ColorHighlighter/issues/366.\n  \n  The plugin is being developed by me alone in my spare time, so if you want to encourage me to build it better and faster, donations as always welcome (See https://github.com/Monnoroch/ColorHighlighter).\n  Thank you guys for your support, every little bit helps!\n\n  NEW VERSION AVAILABLE!\n  \n  Color Highlighter was developed for many years and features were added without consideration.\n  As a result it has plenty of bugs and code is completely unmaintainable.\n  Because of it, I've decided to rewrite the plugin from scratch using all the good programming practices I learned over the years.\n  \n  Right now the new version is still in the alpha stage, but it's very stable and just doesn't have several features of the current version.\n  If you want to help the development, please check out the announce here https://github.com/Monnoroch/ColorHighlighter/issues/366.\n  \n  The plugin is being developed by me alone in my spare time, so if you want to encourage me to build it better and faster, donations as always welcome (See https://github.com/Monnoroch/ColorHighlighter).\n  Thank you guys for your support, every little bit helps!\n\n\nColor Highlighter\n-----------------\n\n  NEW VERSION AVAILABLE!\n  \n  Color Highlighter was developed for many years and features were added without consideration.\n  As a result it has plenty of bugs and code is completely unmaintainable.\n  Because of it, I've decided to rewrite the plugin from scratch using all the good programming practices I learned over the years.\n  \n  Right now the new version is still in the alpha stage, but it's very stable and just doesn't have several features of the current version.\n  If you want to help the development, please check out the announce here https://github.com/Monnoroch/ColorHighlighter/issues/366.\n  \n  The plugin is being developed by me alone in my spare time, so if you want to encourage me to build it better and faster, donations as always welcome (See https://github.com/Monnoroch/ColorHighlighter).\n  Thank you guys for your support, every little bit helps!\n\n\nColor Highlighter\n-----------------\n\n  \n  Color Highlighter v8.0 is released!\n  \n  For more info about the plugin visit https://github.com/Monnoroch/ColorHighlighter.\n  \n  Color Highlighter was developed for many years and features were added without consideration.\n  As a result it has plenty of bugs and code is completely unmaintainable.\n  Because of it, I've decided to rewrite the plugin from scratch using all the good programming practices I learned\n  over the years.\n  \n  This is the first release of the new version and it might have some subtle bugs, especially on Windows and Mac, as I\n  don't have machines with these systems. If you find any bugs, please file them in\n  the bug tracker here: https://github.com/Monnoroch/ColorHighlighter/issues. I always appreciate your help and try to fix\n  problems as soon as possible.\n  \n  The plugin is being developed by me alone in my spare time, so if you want to encourage me to build it\n  better and faster, donations as always welcome.\n  \n  Thank you guys for your support, every little bit helps!\n",
+			"settings":
+			{
+				"buffer_size": 3808,
+				"line_ending": "Windows",
+				"name": "Package Control Messages",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"contents": "Comment formaliser\n\nutiliser le principe de modularité pour decomposer le le systeme\n\nExple salle de classe\n\nDecomposition\n\nSalle:\n\t-banc\n\t-rangée\n\t-etudiant\n\t-classe\n\nEnsuite décrire l'objet la sorte qui appartient le plus aux autres sortes\n\nEtudiant inclut dans banc, rangée, classe\nBanc inclut dans rangée, classe\nrangée inclut dans classe\n\nles axiomes servent à conserver la consistence du model",
+			"settings":
+			{
+				"buffer_size": 399,
+				"line_ending": "Windows",
+				"name": "Comment formaliser"
+			}
+		},
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/wamp/www/sms/index.php",
+			"settings":
+			{
+				"buffer_size": 11725,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/wamp/www/sms/signup.php",
+			"settings":
+			{
+				"buffer_size": 4064,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/wamp/www/sms/partner.php",
+			"settings":
+			{
+				"buffer_size": 4067,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/D/Projets/SmsOnPC/smsOnPC/modemdriver.cpp",
+			"settings":
+			{
+				"buffer_size": 12426,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "#include \"driver.h\"\n\n\nDriver::Driver(QObject *parent):\n    QObject(parent)\n{\n    QList<QSerialPortInfo> port_list = QSerialPortInfo::availablePorts();\n    foreach(QSerialPortInfo port_info, port_list)\n    {\n        if(port_info.description() == portDesc)\n        {\n            portName = port_info.portName();\n        }\n    }\n\n    timer_id = -1;\n    timeout = 2000;\n}\n\nQString Driver::getIMEI()\n{\n\n}\n\nQString Driver::getMobile()\n{\n\n}\n\nQString Driver::getSIM()\n{\n\n}\n\nQString Driver::getSignal()\n{\n\n}\n\nQString Driver::getPort()\n{\n\n}\n\nbool Driver::searchPort()\n{\n    QList<QSerialPortInfo> port_list = QSerialPortInfo::availablePorts();\n    foreach(QSerialPortInfo port_info, port_list)\n    {\n        if(port_info.description() == portDesc)\n        {\n            portName = port_info.portName();\n        }\n    }\n}\n\nbool Driver::connect()\n{\n\n}\n\nQList<Info> Driver::returnInfos()\n{\n\n}\n\nbool Driver::reboot()\n{\n\n}\n\nvoid Driver::waitForBoot()\n{\n\n}\n\nvoid Driver::initModem()\n{\n\n}\n\nbool Driver::checkModemState()\n{\n\n}\n\nvoid Driver::setApn(QString apn)\n{\n    this->apn = apn;\n}\n\nQByteArray Driver::writeAndGet(QString command, bool clear)\n{\n    if(!port->isOpen())\n        return QByteArray();\n\n    port->write(command.toStdString());\n    if(port->waitForBytesWritten(timeout))\n    {\n        QByteArray response;\n        if(port->waitForReadyRead(timeout))\n        {\n            while(!port->atEnd())\n                response.append(port->readAll());\n\n            if(clear)\n            {\n                int finish = response.indexOf(\"\\r\\nOK\");\n                response = response.remove(finish, response.size()-finish);\n            }\n\n            return response;\n        }\n        else\n            return QByteArray();\n    }\n    else\n        return QByteArray();\n}\n",
+			"settings":
+			{
+				"buffer_size": 1757,
+				"line_ending": "Windows",
+				"name": "#include \"driver.h\""
+			}
+		},
+		{
+			"file": "/C/wamp/bin/apache/apache2.4.18/bin/php.ini",
+			"settings":
+			{
+				"buffer_size": 72759,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/wamp/www/sms/article.php",
+			"settings":
+			{
+				"buffer_size": 5462,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/wamp/www/mboatech/admin/article.php",
+			"settings":
+			{
+				"buffer_size": 5310,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "Server IP\t:\tfr.serverip.co\nLocation\t:\tFrance\nProtocol\t:\tTCP & UDP\nOpenSSH\t:\t22,443\n\nEach account valid for 3 days. Account is only allowed maximum two (2) multi-bitvise, else your connection will be automatically disconnect from the server. But we recommend using single bitvise\n\nfastssh.com-jefcolbi11\n\n\n\n    Host: uk.bestvpnssh.com\n    IP Address: 46.101.49.48\n    Location: United Kingdom\n    Protocol: TCP\n    OpenSSH Port: 22, 80\n    Dropbear Port: 443 & 3128\n    Active Days: 5\n    Limit: 200\n\n ipbvs.com-jefcolbi\n\n\nSSH Server:\nssh-gr.vpnjantit.com\nShow IP\nSSH Port:\n22 (OpenSSH)\n143,80 (Dropbear)\nCheck port\nAccount Per Day:\n80 Account / Day\nStatus:\nAvailable\n\njefcolbi-vpnjantit.com\n\n\n\n\n    IP Address: fr03.globalssh.xyz\n    Username: jefcolbi-globalssh\n    Password: vpngui\n    OpenSSH: 22\n    Dropbear: 80,143,443\n    Squid: 3128,8080\n    Exp: 2017-09-23\n\n    \n\n138.197.159.112:3128\n165.227.124.179:80\n89.236.17.106:3128\n128.199.75.57:80\n",
+			"settings":
+			{
+				"buffer_size": 949,
+				"line_ending": "Windows",
+				"name": "Server IP\t:\tfr.serverip.co"
+			}
+		},
+		{
+			"contents": "usproxy.nu\nunblockyoutubefree.net\nhostapp.eu\nfreeyoutube.com\nworkhost.eu\nhidingyour.info\nproxy2014.net\nwebsurfproxy.me\nwww.zacebookpk.com - proxy\nfreeyoutube.net\nwebproxyfree.net\ngreatestfreeproxy.com\nprointern.info\nfreeyouproxytube.com\nthebestproxy.info\nfunproxy.net\nunblockyoutubeatschool.com\ntravelvpn.info\nbrazilproxy.info\nhidetheinternet.com\nkrproxy.info\nfbproxies.info\nfasttime.info\nsuedeproxy.info\nyoutubeunblockproxy.com\nproxy-internet.info\nproxy2014.net\nhidingyour.info\nyouliaoren.com\nwww.blewpass.com\nwebsurfproxy.me\nrapidproxy.us\nworkhost.eu\nnewipnow.com - cloudflare\nwww.vobas.com\nwww.justproxy.co.uk\nproxyone.net - status 301\nworkingproxy.net\nfishproxy.com\nwww.unblockmyweb.com\nwww.zophar.net/proxy - unknown\nvtunnel.com\nspedo.co\nusproxies.info\n4everproxy.com\nunblocker.us\ncantblockthis.org\nproxy-2015.info\nwww.dontfilter.us\ncanadaproxy.info\ncaproxies.info\ndefilter.us\necxs.asia\nlondonproxy.eu\nsingaporeproxy.nu\nwww.kproxy.com - status 200\nproxify.com/p\nphproxy.co\nquickproxy.co.uk\ns31-01-01.opera-mini.net\nmobilis.dz\nline.naver.jp\nwww.ooredoo.com\nwww.ooredoo.tn\nblackberry.com\nserver.200ok.com\nmyxl.co.id\n17171.com\nredir.dnsdb.org\nline.me\npoint.excite.co.id\nspeedosht.celcom.net.my\ninternet.tri.co.id\ntonlakazan.com\nm.facebook.com\ncdn.line-apps.com\nwww.opensignal.com\nwhatsapp.com\n4glte.at.dz.kproxy.com\ndata.smartfren.com\nsg-top.serverip.co\nxlgo.co.id.ioxy.com\naxis.dnsb.org\nbug.axis.2017.com\nmarrr.axisnet.id.zxc.yt\nviber.axis.co.id\naxisnet.id.dnsdb.org\naxisnet.id\n123.xl.axis.singapura.net\nfbcdn.com\nmy.xl.co.id\nv.whatsapp.net\nrobtex.com\nlvs.truehits.in.th\nutv3.com\nxlaxiata.co.id\nxlspeed.net\nmy.telkomsel.com\nwww.xlmms.net\nwww.axiz.co.id\nadnitro.net\nsso.gelecegiyazanlar.org\nufastarvskie123.sshdb.us\ne7.whatapp.net\nfeedup.turkcell.com.tr\ncorreo.tigo.com.co\nmmc.xl.net.com\ntigomusic.com\nnaver.jp\nmms.gprs.safaricom.com\nline.never.jp\nindosat.com\nwww.tigo.com\nwww.claro.com.br\nweb123.xl.co.id\nfastssh.com\nvodafone.eg\nopx.opera.com\nline.never.me\nthree.co.id\n221.132.192.27.com\nblackberry.net\nb-whatsapp.com\ninwi.com\ntools.ip2location.com\ngratis.claro-bemobi.com\nmmc.xl.net.id\naxis.com\nuk1.servjet.co\ngstaticadssl.l.google.com\nnaver.com\nwww.orange.tn\nserver4.operamini.com\nvodafon.com\nd.line-scdn.net\nlibre.ph\nline.co.id\ntn.tn.vuclip.com\nfb.com\nstarzplay.com\nindosatooredoo.com\ntkckish.com\nm.me\nsg3.com\nwww.tunisietelecom.tn\naxisnet.muslimku.com\ndtac.com\nkakao.com\nwww8.subdomain.com\nsg.tcpvpn.com\npangalan.com\n0.freebasics.com\napp.axisworld.co.id\npoint.excite.id\nbin.nokia.whatsap.net\naxisnet.bikep.com\ndtac.co.th\nclaro.con.do\ncomcel.com\ntwitter.net\ndjaweb.dz\nito.gov.ir\nipophil.gov.ph\nclaro.com\nyoutube.co.id\nwww.claro.com.ec\ngc3.jualssh.com\nwww.axisnet.co.id\nwww.axisnet.co.jp\nunlimited.smartfren.co\nwap.movistar.com.ni\nideasclaro.com.do\nwww.syriatel.com\naxisworld.co\nwatsapp.com\nwhatsaap.com\nredirection.gpeasynet.com\nblackberrymessenger.com\nindomaret.co.id\nwww.juno.com\nunlimited.com\naxishitz.unlimited.co\nwww.intel.com\nturkcell.com\nvodafone.com.eg\nmytelkomsel.com\nxl.com\npath.com\naxis.me\nhotlink.fb.me\nwww.vodafone.com\nxldrupal.xituz.com\nwww.facebook.co\nwww.axis.net\nbbm.me\nuno.ma\nt.me\nmobilezone.iam.ma\nwww.celcom.com\nwww.tellkomsel.axisnet.com\nwww.ovh.tn\ntruemove-h.com\nm.opera.com.zzz66.vba.nz\nbbm.com\nwww.dailymotion.com\nm.feelsafedigital.com\nsd.zain.com\nwww.youtube.com\nwap.xl.co.id.ipq.co\nwww.tiendamovistar.com\nanimeflv.net\ntsel.co.id\nvivo.com\nlangitmusik.com\ntn.tn\nairtel.com\ninternet.tn\n4gclaro.com\nwww.warz66.com\ninternet.org\nmoov.com\nelevenia.co.id\ngo.talkntext.ph\nfb.co\nphcorner.net\nlivechat.com\nwww.merriam-webster.com\ntsel.me\ndjezzy.com\nstatic.smartnet.ph\nspeed.com\nwww.cnt.gob.ec\nsg2.ipspeed.co\nwww.episerver.com\nwww.wix.com\nlycamobile.tn\npowerfulbet.com\nking.iwilldoforking.com\nfate.netgame.com\nhttp.www.speedtest.net\nu.com.my\nsg-month.vpntcp.com\nimanila.ph\naxis.kzl.sosmed.net\nsgdo3.setan.cf\njollyworkshosting.com\ngerman-proxy.de\nxlaxiata.com\napi.line.com\nsudani.sd\nmtn.ci\naxisworld.net\nvivo.ddivulga.com\ntokobagus.com\norange.ci\nvivo.com.ar\nxplore.co.id\ntalkntext.facebook.cn\nopx.opera.com.\nweb.com.ph\ndot.ph\nshopee.co.id\nrewardzonemobile.com\nwhatsapps.net\napp.axisworld.com\nshopee.net\nsggs11-group.mytunneling.com\ndjezzy.dz\nwww.kanalytik.tn\nfacebook.ooredoo.dz\npippo.it\nandifekra.tn\nm.im3ooredoo.com\ngianpermana.zpn.im\ncomcel.ec\n123.indosatoredo.com\ncnt.net\nmobilis.com\nblackberry.com.dnsdb.com\nbabblebug.com\nsg-top1.bestvpnssh.com\npun.smkn5bjm.sch.id\nwww.telegram.com\ncrew.info\ndeveloper.facebook.de\nunli.smart4g.com\ngamex.ph\ntntph.com\naxis.kzl.net\nwww.gmodules.ph\nwww.gmodules.com\nse.smart.com\netisalat.com\npsiphonhealthyliving.com\nwww.kashur.id\napi2.smartner.ph\ntelcel.com\ntruemove.com\nwww.digicel.com.sv\n123.indosatooredo.com\nweixin.qq.com\nxsgdo1.mxtn.me\nstc.com\nwww.bitel.com.pe\nhooq.com\nns3010330.ip-5-135-184.ph\nfacebook.co.id\nns3010330.ip-5-135-184.eu\nsgp01.globalssh.xyz\nxhhbz52553.lithium.com\nxl.co.net\nm.ekhanei.com\nw1716.smartadserver.com\nwikipedia.org\nproxy2017.com\nappsclub.grameenphone.com\nteletalk.com.bd\nwhatsapps.com\netisalat.eg\nupfile.mobi\nltnsd.spaces.live.com\nicflix.com\nasia.com\nwww.mysmartfren.com\nmobil.net\nifood.delivery\ntelkomsel.co.id\nmms.digicelgroup.com\nbug.com\nwww.bukalapak.com\naxis.kzl.com\nbeeg.com\niklanstore.co.id\nwana.ma\ninwi.ma\npatch.com\npatc.com\nwechat.com\n0.0.freebasic.com\n0.0.freebasics.com\n0.facebook.com\n0.frebasics.com\n0.freebasic.com\n0.freebasics.com\n0.internet.org\n0.operamini.freebasics.com\nads.freebasics.com\nairtel.internet.org\nb-api.facebook.com\nb-graph.facebook.com\nb-m.facebook.com\nb-www.facebook.com\ncapk.internet.org\ncellc.internet.org\nedge-z-m-mini-shv-01-lax3.facebook.com\nelite-operamini.internet.org\nexpresswifi.com\nfr-m-wikipedia-org.0.freebasics.com\nfree.facebook.com\nfree.internet.org\nfreeb6.com\nfreebasic.com\nfreebasics.com\nfreebs.com\nglol.internet.org\ngod.freebasic.com\nh.internet.org\nhttp-fr-m-wikihow-com.0.freebasics.com\nhttp-ke-supersport-mobi.0.freebasics.com\nhttp-m-spin-ph.0.freebasics.com\nhttp-m-wattpad-com.0.freebasics.com\nhttp-theabc-xyz.0.freebasics.com\nhttp-www-e-tesda-gov-ph.0.freebasics.com\nhttp-www-gov-ph.0.freebasics.com\nhttps-en-m-wikipedia-org.0.freebasics.com\nhttps-fr-m-wikipedia-org.0.freebasics.com\ninfi.internet.org\ninquirer.net.0.freebasics.com\ninternet.org\nlm.facebook.com\nm.internet.org\nmazter.internet.org\nmy.internet.org\nnullmx.freebasic.com\nnullmx.freebasics.com\no.freebasic.com\no.freebasics.com\no.internet.org\noonvare.internet.org\npappi.internet.org\npappitech.internet.org\nserver-3128.freebasics.com\nserver-80.freebasics.com\nserver-80.internet.org\nserver-8080.freebasics.com\nsimulator.c10r.freebasics.com\ntelstra.iph.internet.org\ntruemoveh.truecorp.co.th.0.freebasics.com\nwww.0.freebasics.com\nwww.freebasic.com\nwww.freebasics.com\nwww.internet.org\nz-m-graph.facebook.com\nz-m.c10r.facebook.com\nz-m.facebook.com\nz-upload.facebook.com\nz.facebook.com\nzero.facebook.com.internet.org\nadmin.google.com\nandroid.clients.google.com\napps.google.com\nbooks.google.com.ph\ncareers.google.com\nclient2.google.com\nclient3.google.com\nclient5.google.com\nclients3.google.com\nclients4.google.com\nclients6.google.com\ncloud.google.com\nconnectivitycheck.android.com\nconsole.cloud.google.com\ndeveloper.android.com\ndeveloper.google.com\ndevelopers.google.com\ndl.google.com\ndocs.google.com\ndoubleclick.net\ndrive.google.com\nencrypted-tbn3.gstatic.com\ng.co\ngoo.gl\ngoogle.co\ngoogle.com\nipv4.google.com\nm.youtube.com\nm.youtube.com.ph\nmaps.google.com\nogs.google.com\npixel.google.com\nplay.google.com\nplus.google.com\nredirector.googlevideo.com\ns.youtube.com\nsafebrowsing-cache.google.com\nsafebrowsing.clients.google.com\nsb-ssl.google.com\nschema.org\nspreadsheets.google.com\nsupport.google.com\nthinkwithgoogle.com\nw.google.com\nwap.google.com\nwww.youtube.com\nyoutube.com\nzero.freebasic.com\ncriteo.com",
+			"settings":
+			{
+				"buffer_size": 7692,
+				"line_ending": "Windows",
+				"name": "usproxy.nu"
+			}
+		},
+		{
+			"file": "/C/wamp/www/sms/includes/bd.php",
+			"settings":
+			{
+				"buffer_size": 279,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/wamp/www/mboatech/admin/login.php",
+			"settings":
+			{
+				"buffer_size": 3632,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/wamp/www/sms/includes/utils.php",
+			"settings":
+			{
+				"buffer_size": 4531,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "class"
+			}
+		},
+		{
+			"file": "/C/wamp/www/mboatech/includes/classes.php",
+			"settings":
+			{
+				"buffer_size": 17456,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 150.0,
+		"last_filter": "PHP Code Sniffer: ",
+		"selected_items":
+		[
+			[
+				"PHP Code Sniffer: ",
+				"PHP Code Sniffer: Switch coding standard"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/wamp/www/sms",
+		"/C/wamp/www/sms/includes"
+	],
+	"file_history":
+	[
+		"/C/wamp/www/mboatech/admin/includes/fron_classes.php",
+		"/C/wamp/www/mboatech/includes/fron_classes.php",
+		"/C/wamp/logs/apache_error.log",
+		"/C/wamp/www/sms/signup.php",
+		"/C/wamp/www/mboatech/admin/categorie.php",
+		"/C/wamp/www/mboatech/css/prism-2.css",
+		"/C/wamp/www/mboatech/admin/js/tiny.js",
+		"/C/wamp/www/mboatech/actus.php",
+		"/C/wamp/www/mboatech/includes/classes.php",
+		"/C/wamp/www/sms/article.php",
+		"/C/wamp/www/mboatech/articles/Android X86 - 1",
+		"/C/wamp/www/mboatech/articles/Apprendre le C - Chapitre 0.docx",
+		"/C/wamp/www/mboatech/articles/Apprendre le C - Chapitre 3.docx",
+		"/C/Users/Jefcolbi/Downloads/mboatech.sql",
+		"/C/wamp/www/mboatech/sitemap.xml",
+		"/C/wamp/www/mboatech/css/default.css",
+		"/C/wamp/www/mboatech/chapitre.php",
+		"/C/wamp/www/mboatech/article.php",
+		"/C/wamp/www/sms/admin/admin.php",
+		"/D/Projets/SmsOnPC/smsOnPC/Docs/source-archive/smspdu-cpp/trunk/src/main.cpp",
+		"/C/Users/Jefcolbi/Desktop/res1.txt",
+		"/C/Users/Jefcolbi/Desktop/cris.txt",
+		"/C/Users/Jefcolbi/Desktop/animaux.txt",
+		"/C/wamp/www/mboatech/articles/Apprendre le C moderne",
+		"/C/wamp/www/mboatech/cours.php",
+		"/C/wamp/www/mboatech/admin/chapitre.php",
+		"/C/wamp/www/mboatech/admin/cours.php",
+		"/C/wamp/www/mboatech/admin/article.php",
+		"/C/wamp/www/mboatech/admin/login.php",
+		"/C/wamp/www/mboatech/articles/Introduction",
+		"/C/wamp/www/mboatech/admin/user.php",
+		"/C/wamp/www/mboatech/includes/function.php",
+		"/C/wamp/www/mboatech/admin/index.php",
+		"/C/wamp/www/mboatech/includes/bd.php",
+		"/C/wamp/www/mboatech/index.php",
+		"/C/wamp/www/mboatech/articles/Apprendre le C - Chapitre 4.docx",
+		"/C/wamp/www/mboatech/css/prism-1.css",
+		"/C/wamp/www/mboatech/css/prism.css",
+		"/C/ProgramData/Microsoft/Windows/Start Menu/Programs/OpenVPN/OpenVPN GUI.lnk",
+		"/C/Users/Jefcolbi/Desktop/res.txt",
+		"/D/Projets/SmsOnPC/smsOnPC/Docs/smstools3-3.1.21/smstools3/src/Makefile",
+		"/D/Projets/SmsOnPC/smsOnPC/Docs/smstools3-3.1.21/smstools3/scripts/sendsms",
+		"/D/Projets/SmsOnPC/smsOnPC/Docs/smstools3-3.1.21/smstools3/examples/send_sms_unicode.sms",
+		"/D/Projets/SmsOnPC/smsOnPC/Docs/smstools3-3.1.21/smstools3/examples/send_sms.sms",
+		"/D/Projets/SmsOnPC/smsOnPC/Docs/source-archive/smspdu-cpp/wiki/TOC.wiki",
+		"/D/Libs/CSS/Materialize/Docs/Breadcrumbs - Materialize.html",
+		"/C/wamp/www/mboatech/articles/VPN - 1.txt",
+		"/C/wamp/www/sms/editeur/index.html",
+		"/C/wamp/www/sms/article3.php",
+		"/C/wamp/www/sms/includes/fonctions.inc",
+		"/C/wamp/www/sms/login.php",
+		"/C/wamp/www/sms/includes/connexiondb.inc",
+		"/C/wamp/www/mboatech/img/logo/c.jpg",
+		"/C/Users/Jefcolbi/Desktop/zazi publishing/edition.sql",
+		"/C/Program Files/OpenVPN/config/jeffvpn/de2.tcpvpn.com/de2.tcpvpn.com-443.ovpn",
+		"/D/Projets/psiphon-tunnel-core/psiphon/meekConn.go",
+		"/C/wamp/www/sms/comsas/accueil.html",
+		"/C/wamp/www/sms/PHPMailer-master/examples/gmail.phps",
+		"/F/comsa/include/fichier.php",
+		"/C/Users/Jefcolbi/AppData/Local/Temp/fz3temp-1/signup.php",
+		"/C/Users/Jefcolbi/Downloads/Mifi_conf.txt",
+		"/D/Projets/SmsOnPC/smsOnPC/Docs/smstools3-3.1.21/smstools3/src/pdu.h",
+		"/C/Users/Jefcolbi/Documents/regions.txt",
+		"/C/wamp/www/sms/css/style.css",
+		"/C/wamp/www/sms/index.php",
+		"/C/wamp/www/sms/css/custom.css",
+		"/C/wamp/www/sms/includes/classes.php",
+		"/D/current",
+		"/D/Projets/Comsas-site/conception/fonctions.txt",
+		"/D/Projets/MamaTest/lisez moi.txt",
+		"/C/wamp/www/sms/template/frontend.php",
+		"/C/Users/Jefcolbi/AppData/Roaming/Sublime Text 3/Packages/User/phpcs.sublime-settings",
+		"/D/WTPTP/L02BUganda1_M023_LCD_V003_8801_2.144.000_20161117_1030_SIGN/SWD/Nezha_MiFi5_LWG_Only_Nontrusted.blf",
+		"/D/WTPTP/L02C_M028T_VodafoneCameroon/Cameroon/Nezha_MiFi5_LWG_Only_Nontrusted.blf",
+		"/C/Users/Jefcolbi/Desktop/psiphon.config",
+		"/D/WTPTP/MY2108_V005 +M028T(SkyLark,L0DE_LED,ntim_ddr) for L02D/SWD/Nezha_MiFi5_LWG_Only_Nontrusted.blf",
+		"/D/WTPTP/L02BZFM4_M023J_LCD_V001_8801_3.160.000_20170217_1400/SWD/Nezha_MiFi5_LTG_Only_Nontrusted.blf",
+		"/D/WTPTP/L02C_M028T_VodafoneCameroon/Cameroon/Nezha_MiFi5_LWG_Only_Nontrusted - Copie.blf",
+		"/D/WTPTP/backup/Nezha_MiFi5_LWG_Only_Nontrusted.blf",
+		"/C/Users/Jefcolbi/Downloads/Mifi_config.txt",
+		"/C/Users/Jefcolbi/Downloads/Mifi_config.bin",
+		"/C/Users/Jefcolbi/Desktop/MAYANPROPHECY.nfo",
+		"/D/WTPTP/Software_Downloader/Utilities/RomCopy/RomCopy_Readme.txt",
+		"/D/WTPTP/GLOBE M022T FULL OPENLINE/SWD/Nezha_MiFi5_LWG_Only_Nontrusted.blf",
+		"/D/WTPTP/Software_Downloader/Utilities/RomCopy/MakeRomcDLPackage_Readme.txt",
+		"/D/WTPTP/Software_Downloader/Utilities/IFLSWD/WtptpDownLoad/ParaDefine.h",
+		"/D/WTPTP/Software_Downloader/Utilities/IFLSWD/WtptpDownLoad/WtptpDownLoad.h",
+		"/D/WTPTP/Software_Downloader/Utilities/IFLSWD/WtptpDownLoad/ErrorCode.h",
+		"/D/Projets/SmsOnPC/smsOnPC/ChatonPC/tools.c",
+		"/D/Projets/OrangeNew/Proxy/proxy2-master/setup_https_intercept.sh",
+		"/C/Users/Jefcolbi/Downloads/3 Free Payload 1.ehi",
+		"/D/Projets/SmsOnPC/smsOnPC/contact.cpp",
+		"/C/Users/Jefcolbi/AppData/Local/Your Freedom/ems.cfg",
+		"/D/Projets/SmsOnPC/smsOnPC/Readme.md",
+		"/D/Projets/SmsOnPC/build-smsOnPC-Desktop_Qt_5_6_1_MinGW_32bit-Debug/debug/moc_mainwindow.cpp",
+		"/C/Users/Jefcolbi/Desktop/Decompiled APKs/free.unblock.vpnpro_2017-05-29_2.apk/smali/free/unblock/vpnpro/service/xSocksVpnService.smali",
+		"/C/Users/Jefcolbi/Downloads/Documents/TP/puissance.pl",
+		"/C/Users/Jefcolbi/Downloads/Documents/TP/expo.pl",
+		"/C/Users/Jefcolbi/Downloads/Documents/TP/genea.pl",
+		"/C/Users/Jefcolbi/Downloads/Telegram Desktop/Exercice 3.1 - puissance.pl",
+		"/D/site departement 1/comsas/comsa/page/confirm.php",
+		"/D/site departement 1/comsas/comsa/page/register.php",
+		"/D/site departement 1/comsas/comsa/include/class.php",
+		"/C/wamp/www/sport/admin/fonctions.inc",
+		"/D/site departement 1/comsas/comsa/include/file.php",
+		"/D/site departement 1/comsas/comsa/include/fonction.php",
+		"/C/Users/Jefcolbi/Desktop/Decompiled APKs/xp-psiphon-7_source_from_JADX/com/psiphon3/view/ConfigExporter.java",
+		"/C/Users/Jefcolbi/Desktop/Decompiled APKs/xp-psiphon-7_source_from_JADX/com/psiphon3/utils/Payload.java",
+		"/C/Users/Jefcolbi/Desktop/Decompiled APKs/xp-psiphon-7_source_from_JADX/com/tozny/crypto/android/AesCbcWithIntegrity.java",
+		"/C/wamp/www/sms/index3.php",
+		"/C/wamp/www/sms/js/scripts.js",
+		"/C/Go/src/net/http/transport.go",
+		"/D/Projets/psiphon-tunnel-core/ConsoleClient/re/ConsoleClient",
+		"/C/Go/src/github.com/Psiphon-Labs/psiphon-tunnel-core/psiphon/meekConn.go",
+		"/C/Go/src/github.com/Psiphon-Labs/psiphon-tunnel-core/psiphon/common/obfuscatedSshConn.go",
+		"/D/Projets/psiphon-tunnel-core/ConsoleClient/main.go",
+		"/C/Users/Jefcolbi/Desktop/sv_server.dat",
+		"/C/Go/src/github.com/Psiphon-Labs/psiphon-tunnel-core/psiphon/common/hostNameGenerator.go",
+		"/C/Go/src/github.com/Psiphon-Labs/psiphon-tunnel-core/psiphon/common/net.go",
+		"/C/Go/src/github.com/Psiphon-Labs/psiphon-tunnel-core/psiphon/common/protocol/protocol.go",
+		"/D/Projets/psiphon-tunnel-core/README.md",
+		"/D/Projets/psiphon-tunnel-core/psiphon/dataStore.go",
+		"/D/Projets/psiphon-tunnel-core/psiphon/feedback.go",
+		"/D/Projets/psiphon-tunnel-core/psiphon/httpProxy.go",
+		"/D/Projets/psiphon-tunnel-core/psiphon/LookupIP.go",
+		"/D/Projets/psiphon-tunnel-core/psiphon/LookupIP_nobind.go",
+		"/D/Projets/psiphon-tunnel-core/psiphon/controller_test.go",
+		"/D/Projets/psiphon-tunnel-core/psiphon/controller.go"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"D:\\Projets\\psiphon-tunnel-core",
+			"D:\\Projets\\psiphon-tunnel-core\\psiphon",
+			"D:\\Projets\\psiphon-tunnel-core\\psiphon\\common",
+			"",
+			"D:\\Projets\\psiphon-tunnel-core\\psiphon",
+			"D:\\Projets\\psiphon-tunnel-core\\goarista",
+			"D:\\Projets\\psiphon-tunnel-core\\crypto",
+			"D:\\Projets\\psiphon-tunnel-core",
+			"C:\\Users\\Jefcolbi\\Desktop\\Decompiled APKs\\xp-psiphon-7_source_from_JADX",
+			"C:\\Users\\Jefcolbi\\Desktop\\Decompiled APKs\\xp-psiphon-7_source_from_JADX\\com"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"nom",
+			"\"fileToUpload\"",
+			"username",
+			"%3A",
+			"%2F",
+			"%22",
+			"%3D",
+			"%3E",
+			"%3C",
+			"+",
+			"fk_article_publie_admin",
+			"\");\n",
+			"h4",
+			"host",
+			");\n",
+			"\"",
+			"00",
+			"art",
+			"die(",
+			"art",
+			"article",
+			"cat",
+			">';",
+			"in",
+			"id_admin",
+			"?>\n",
+			"id_admin",
+			"input",
+			"        \n",
+			"slider",
+			"s4",
+			"projet-img",
+			"h5",
+			"regi",
+			"getConn",
+			"RoundTrip(req *http.Request)",
+			"RoundTrip(req",
+			"RoundTrip(req *http.Request)",
+			"transpo",
+			" RoundTrip",
+			"github.com",
+			"github.com/Psiphon-Labs/psiphon-tunnel-core/psiphon/common",
+			".xp",
+			"new.xp",
+			"com.tozny.crypto.android",
+			"com.tozny.crypto.android;",
+			"img1",
+			"bodyar",
+			"body",
+			"arti1",
+			"arti",
+			"connect",
+			"para6",
+			"image",
+			"''Mozilla",
+			"api/user/login",
+			"login",
+			"heart",
+			"base64Decod",
+			"base64DecodeChars",
+			"SHA256",
+			"g_base64EncodeChars",
+			"api/user/login",
+			"/api/user/login",
+			"g_requestVerificationToken",
+			"100401",
+			"saveAjaxData",
+			"/api/user/login",
+			"lien",
+			"zend",
+			")"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": true,
+		"regex": false,
+		"replace_history":
+		[
+			"corps",
+			"resume",
+			"titre",
+			"$nom",
+			"$logo",
+			"role",
+			"raison",
+			"annee",
+			":",
+			"/",
+			"\"",
+			"=",
+			">",
+			"<",
+			" ",
+			"",
+			"\\u00",
+			"\\00",
+			"cr",
+			"cours",
+			"cour",
+			"cours",
+			"article-img",
+			"my/github.com",
+			"D:\\Projets\\psiphon-tunnel-core\\psiphon\\common",
+			"connect-page",
+			"lic"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "C:\\wamp\\www\\sms"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 7,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/wamp/www/sms/includes/classes.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 25972,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								16425,
+								16425
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 8807.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/wamp/www/mboatech/includes/fron_classes.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12840,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6328,
+								6598
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3633.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/wamp/www/sms/login.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3724,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1685,
+								2298
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 765.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/wamp/www/sms/includes/secu.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1032,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1018,
+								1018
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/wamp/www/sms/includes/front_classes.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12762,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6023,
+								6023
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2552.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/wamp/www/sms/cours.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5451,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5322,
+								5392
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2610.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3808,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2750,
+								990
+							]
+						],
+						"settings":
+						{
+							"auto_indent": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_width": 2,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 45.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 399,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								166,
+								166
+							]
+						],
+						"settings":
+						{
+							"auto_name": "Comment formaliser",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/C/wamp/www/sms/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11725,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1470,
+								2063
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 360.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/C/wamp/www/sms/signup.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4064,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1859,
+								2458
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 675.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/C/wamp/www/sms/partner.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4067,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								565,
+								565
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "/D/Projets/SmsOnPC/smsOnPC/modemdriver.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12426,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								697,
+								697
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1757,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1757,
+								1757
+							]
+						],
+						"settings":
+						{
+							"auto_name": "#include \"driver.h\"",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1098.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "/C/wamp/bin/apache/apache2.4.18/bin/php.ini",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 72759,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 11745.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "/C/wamp/www/sms/article.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5462,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2756,
+								2756
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1440.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "/C/wamp/www/mboatech/admin/article.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5310,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2257,
+								2400
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1260.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 949,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								912,
+								894
+							]
+						],
+						"settings":
+						{
+							"auto_name": "Server IP\t:\tfr.serverip.co",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 21,
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7692,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								7692
+							]
+						],
+						"settings":
+						{
+							"auto_name": "usproxy.nu",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 6379.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 18,
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"file": "/C/wamp/www/sms/includes/bd.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 279,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								94,
+								94
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 20,
+					"type": "text"
+				},
+				{
+					"buffer": 20,
+					"file": "/C/wamp/www/mboatech/admin/login.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3632,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								68,
+								556
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 19,
+					"type": "text"
+				},
+				{
+					"buffer": 21,
+					"file": "/C/wamp/www/sms/includes/utils.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4531,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3594,
+								3594
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"auto_name": "class",
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1773.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 22,
+					"file": "/C/wamp/www/mboatech/includes/classes.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 17456,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8552,
+								7804
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 4455.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 22,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.9o://D:\\Projets\\psiphon-tunnel-core\\psiphon":
+	{
+		"height": 100.0
+	},
+	"output.GoSublime-main-output":
+	{
+		"height": 25.0
+	},
+	"output.GoSublime-output":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
