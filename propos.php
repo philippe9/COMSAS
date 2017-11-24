@@ -23,6 +23,8 @@
     <link href='http://fonts.googleapis.com/css?family=Lato:100,300,400,300italic' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" type="text/css" href="css/ionicons.min.css">
     <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+        <link rel="stylesheet" type="text/css" href="css/templatemo_style.css">
+
     <link rel="stylesheet" type="text/css" href="css/bootstrap-theme.min.css">
     <link rel="stylesheet" type="text/css" href="css/custom.css">
 
@@ -51,7 +53,7 @@
                 <li><a href="/login.php">Connexion</a></li>
                 <li><a href="/partner.php">Partenaires</a></li>
                 <li><a href="/article.php">Articles</a></li>
-                <li><a href="/projet.php">Projets</a></li>
+                <li><a href="/project.php">Projets</a></li>
                 <li><a href="/cours.php">Cours</a></li>
             </ul>
         </div>
@@ -88,13 +90,48 @@
         </section>
 
 
-        <section class="section-equipe">
+        <section class="container-fluid section-equipe">
             <div class="row text-center">
                 <h1>Notre équipe</h1>
                 <p class="comp-tell">
                     Tous les tic et tac de la filiere info
                 </p>
+                 <div  class="col-lg-3" style="border:1px solid #666;border-radius:2%;margin-left:5%;padding-top:1%;">
+                <div style="margin-left:3%;margin-top:5%;margin-bottom:5%;">
+                    <img src="img/deptinfo.png" class="img-responsive" style="height:150px;width:170px;" />
+                </div>
+                <div class="col-sm-12">
+                   <p>NOM et prenom</p>
+                   <p>Poste</p>
+                   <p>Mail</p>
+                   <p>Contact</p>
 
+                </div>
+            </div>
+             <div  class="col-lg-3" style="border:1px solid #666;border-radius:2%;margin-left:5%;padding-top:1%;">
+                <div style="margin-left:3%;margin-top:5%;margin-bottom:5%;">
+                    <img src="img/deptinfo.png" class="img-responsive" style="height:150px;width:170px;" />
+                </div>
+                <div class="col-sm-12">
+                   <p>NOM et prenom</p>
+                   <p>Poste</p>
+                   <p>Mail</p>
+                   <p>Contact</p>
+
+                </div>
+            </div>
+             <div  class="col-lg-3" style="border:1px solid #666;border-radius:2%;margin-left:5%;padding-top:1%;">
+                <div style="margin-left:3%;margin-top:5%;margin-bottom:5%;">
+                    <img src="img/deptinfo.png" class="img-responsive" style="height:150px;width:170px;" />
+                </div>
+                <div class="col-sm-12">
+                   <p>NOM et prenom</p>
+                   <p>Poste</p>
+                   <p>Mail</p>
+                   <p>Contact</p>
+
+                </div>
+            </div>
             </div>
         </section>
 

@@ -1,0 +1,213 @@
+.carousel-inner>.item>img,
+.carousel-inner>.item>a>img {
+    height: 35em;
+    width: 100%;
+    margin: auto;
+}
+
+.carousel-inner .item img {
+    display: block;
+    max-width: 100%;
+    max-height: 100%;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+
+/*bienvenue*/
+
+.bienvenue {
+    background-color: white;
+}
+
+.bienvenue h1 {
+    font-size: 3em;
+    margin-top: 1.5em;
+    text-align: center;
+}
+
+.bienvenue em {
+    font-style: none;
+    color: #ff7600;
+    text-align: center;
+}
+
+.bienvenue p {
+    font-size: 1.6em;
+    text-align: center;
+    text-align: center;
+}
+
+.titre-formation {
+    background-color: #f4f4f4;
+    text-align: center;
+    /* margin-top: 2.5em; */
+}
+
+.titre-formation h1 {
+    /* text-align: center; */
+    /* margin-left: 30%; */
+    width: 50%;
+    color: #666;
+    padding-bottom: 2% !important;
+    /* margin-left: 30%; */
+    /* color: #666; */
+    /* border: 2px solid black; */
+}
+
+
+/*section formations*/
+
+.panel {
+    margin-top: 1.5em;
+    box-shadow: 1px 1.5px 1px 1.5px rgba(181, 181, 181, 0.2);
+    transition: box-shadow .3s;
+    -webkit-transition: box-shadow .3s;
+}
+
+.panel:hover {
+    box-shadow: 3px 2px 2px 3px rgba(27, 16, 16, 0.2);
+}
+
+.panel h3 {
+    color: #666;
+}
+.panel h4 {
+    color: #666;
+}
+.panel-heading img {
+    width: 23em;
+    height: 34%;
+}
+
+.panel-body button {
+    float: right;
+    color: #fff;
+    font-size: 1.12em;
+    background-color: #ff7600;
+    height: 2.2em;
+    border: 2px solid #ff7600;
+}
+
+.section-offre-after a {
+    color: #ff7600;
+    float: right;
+    margin-right: 6em;
+    font-size: 1.23em;
+    text-decoration: none;
+}
+
+.section-offre-after a:hover {
+    text-decoration: underline;
+}
+
+
+/*section enseignants*/
+
+.titre-enseignant {
+    background-color: #e3e3e3;
+    margin-top: 1em;
+}
+
+.titre-enseignant h1 {
+    text-align: center;
+    width: 50%;
+    color: #666;
+}
+
+.section-enseignant {
+    background-color: #e3e3e3;
+    padding-top: 3em;
+}
+
+.section-enseignant h1 {
+    text-align: center;
+}
+
+.section-enseignant p {
+    margin-bottom: 10% !important;
+}
+
+.photo h4,
+.photo p {
+    text-align: center;
+}
+
+
+/*section articles*/
+
+.titre-article {
+    background-color: #f4f4f4;
+    margin-top: 2.5em;
+}
+
+.section-article {
+    background-color: white;
+    margin-top: 0px !important;
+}
+
+.titre-article h1 {
+    margin-left: 33%;
+    padding-bottom: 2% !important;
+    margin-left: 30%;
+    color: #666;
+}
+
+.section-article .panel {
+    height: 12em;
+}
+
+.img-article {
+    width: 40%;
+    height: 100%;
+}
+
+.img-article img {
+    width: 100%;
+    height: 100%;
+}
+
+.text-article {
+    width: 60%;
+    margin-left: 40%;
+    position: absolute;
+    margin-top: -140px;
+}
+
+.text-article p {
+    overflow: "...";
+}
+
+.text-article h4 {
+    color: #ff7600;
+}
+
+
+/*section partenaires*/
+
+.titre-partenaire {
+    background-color: #f4f4f4;
+    margin-top: 1.5em;
+}
+
+.titre-partenaire h1 {
+    text-align: center;
+    width: 100%;
+    padding-bottom: 2% !important;
+    margin-left: 30%;
+    color: #666;
+    /* border: 2px solid black !important; */
+}
+
+.parteniare-body {
+    background-color: white;
+}
+
+.pied-page {
+    width: 100%;
+    height: 5em;
+    background-color: #666;
+}

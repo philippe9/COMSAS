@@ -90,7 +90,7 @@ if(!isset($mode))
                 <li><a href="/login.php">Connexion</a></li>
                 <li><a href="/partner.php">Partenaires</a></li>
                 <li><a href="/article.php">Articles</a></li>
-                <li><a href="/projet.php">Projets</a></li>
+                <li><a href="/project.php">Projets</a></li>
                 <li><a href="/cours.php">Cours</a></li>
             </ul>
         </div>

@@ -17,25 +17,37 @@ class AffichConnexion extends Connexion
 		else
 			$username = NULL;
 
-		echo '<form action="login.php" method="POST" class="center">
-                <h3 class="red-text darken-3-text">Connexion</h3>
+		echo '<div class="row">
+           <div class="col-md-offset-2 col-md-8 col-md-offset-2">
+		<form action="login.php" method="POST" class="center">
+                <h3 class="red-text darken-3-text text-center">Connexion</h3>
 
-                <div class="row">
-                <div class="input-field col s12">                    
-                    <input type="text" id="username" name="username" value="'.$username.'"/>
-                    <label for="username">Utilisateur</label>
-                </div>
-                </div>
+              
 
-                <div class="row">
-                <div class="input-field col s12">                    
-                    <input type="password" id="password" name="password" />
-                    <label for="passord">Mot de passe</label>
-                </div>
+                <div class="row form-group">
+                    <label class="control-label col-md-3 col-sm-3 col-xs-3" for="nom">Utilisateur 
+                        </label>
+                    <div class="col-md-6 col-sm-6 col-xs-12">
+                        <input type="text" id="username" required class="form-control col-md-3 col-xs-2" placeholder="Your Name" name="username" value="'.$username.'">
+                    </div>
                 </div>
 
-                <button type="submit" name="action" class="btn waves-effect waves-light red darken-3">Se Connecter</button>
-            </form>';
+                <div class="row form-group">
+                    <label class="control-label col-md-3 col-sm-3 col-xs-3" for="password">Mot de passe 
+                        </label>
+                    <div class="col-md-6 col-sm-6 col-xs-12">
+                        <input type="password" id="nom" required class="form-control col-md-3 col-xs-2" placeholder="Password" name="password">
+                    </div>
+                </div>
+
+<div class="row form-group">
+                        <div class="col-md-offset-3 col-md-6 col-md-offset-3">
+                            <button class="btn btn-info">Connectez vous</button>
+                    </div>
+                    </div>            </form>
+            </div>
+            </div>
+            ';
 	}
 
 	static function succes()
@@ -75,37 +87,48 @@ class AffichUtilisateur extends Utilisateur
 		else
 			$error = NULL;
 
-		echo '<form action="signup.php" method="POST" class="center">
+		echo '
+           <div class="row">
+           <div class="col-md-offset-2 col-md-8 col-md-offset-2">
+		<form action="signup.php" method="POST" class="center">
 				<input type="hidden" name="mode" value="add" />
-                <h3 class="red-text darken-3-text">Inscription</h3>
+                <h1 class="red-text darken-3-text text-center">Inscription</h1>
 
                 '.$error.'
 
-                <div class="row">
-                <div class="input-field col s12">                    
-                    <input type="text" id="username" name="username" value="'.$username.'" />
-                    <label for="username">Utilisateur</label>
+               <div class="row form-group">
+                    <label class="control-label col-md-3 col-sm-3 col-xs-3" for="nom">Nom 
+                        </label>
+                    <div class="col-md-6 col-sm-6 col-xs-12">
+                        <input type="text" id="nom" required class="form-control col-md-3 col-xs-2" placeholder="Your Name" name="nom" value="'.$username.'">
+                    </div>
                 </div>
+                  <div class="row form-group">
+                    <label class="control-label col-md-3 col-sm-3 col-xs-3" for="nom">Email 
+                        </label>
+                    <div class="row col-md-6 col-sm-6 col-xs-12">
+                        <input type="email" id="mail" required class="form-control col-md-3 col-xs-2" placeholder="Your Email" name="mail" value="'.$email.'">
+                    </div>
                 </div>
 
-                <div class="row">
-                <div class="input-field col s12">                    
-                    <input type="text" id="email" name="email" value="'.$email.'" />
-                    <label for="email">Email</label>
+                <div class="row form-group">
+                    <label class="control-label col-md-3 col-sm-3 col-xs-3" for="nom">Password 
+                        </label>
+                    <div class="row col-md-6 col-sm-6 col-xs-12">
+                        <input type="password" id="mail" required class="form-control col-md-3 col-xs-2" placeholder="Your pass" name="mail" value="">
+                    </div>
                 </div>
-                </div>
+            
 
-                <div class="row">
-                <div class="input-field col s12">                    
-                    <input type="password" id="password" name="password" />
-                    <label for="passord">Mot de passe</label>
-                </div>
-                </div>                
-
-                <div class="row">
-                <button type="submit" name="action" class="btn waves-effect waves-light red darken-3">Se Connecter</button>
-                </div>
-            </form>';
+                 <div class="row form-group">
+                        <div class="col-md-offset-3 col-md-6 col-md-offset-3">
+                            <button class="btn btn-info">Inscrivez vous</button>
+                    </div>
+                    </div>
+            </form>
+            </div>
+            </div>
+            ';
 	}
 
 	static function succes()
@@ -223,14 +246,12 @@ class AffichPartenaire extends Partenaire
 			$logo = $part["logo"];
 
 			if($i==0 || $i==3 || $i==6)
-				echo '	
-					<div class="row">';
-
+				echo 
 			$page = '
-						<div class="col s12 m6 l6">
+						<div class="col-lg-5 col-lg-offset-1 panel">
 					<div class="card gray darken-1 black-text">
 						<div class="card-image">
-							<img src="'.$logo.'">
+							<img src="'.$logo.'" class="img-responsive partenaire-logo">
 							<span class="card-title">'.$nom.'</span>
 						</div>
 						<div class="card-content">
@@ -291,7 +312,7 @@ class AffichArticle extends Article
 					<div class="row">';
 
 			$page = '
-						<div class="col-sm-4">
+						<div class="col-sm-3 col-sm-offset-1 panel">
 					<div class="card gray darken-1 black-text">
 						<div class="card-content">
 							<span class="card-title bold"><a class="black-text bold" href="article.php?mode=view&id='.$id.'">'.$titre.'</a></span>
@@ -299,7 +320,7 @@ class AffichArticle extends Article
 							<p>'.$resume.'</p>
 						</div>
 						<div class="card-action">
-							<a href="article.php?mode=view&id='.$id.'" class="white-text"><button class="waves-effect waves-teal btn-flat orange">Lire</button></a>
+							<a style="margin-bottom:1%;" href="article.php?mode=view&id='.$id.'" class="white-text"><button class="btn btn-danger">Lire</button></a>
 						</div>
 					</div>
 		        </div>';
@@ -557,7 +578,7 @@ class AffichFilleul extends Filleul
                         </select>
                     </div>
 
-                    <button type="submit">S\'enregistrer</button>
+                    <button class="btn btn-info" type="submit">S\'enregistrer</button>
                 </form>';
 	}
 }

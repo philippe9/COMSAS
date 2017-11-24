@@ -60,33 +60,39 @@ elseif($_SERVER["REQUEST_METHOD"] === "GET")
     <meta name="author" content="Comsas">
 
     <title>COMSAS - Connexion</title>
-    <link rel="stylesheet" type="text/css" href="css/materialize.min.css">
+    <link href='http://fonts.googleapis.com/css?family=Lato:100,300,400,300italic' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" type="text/css" href="css/ionicons.min.css">
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+        <link rel="stylesheet" type="text/css" href="css/templatemo_style.css">
+
+    <link rel="stylesheet" type="text/css" href="css/bootstrap-theme.min.css">
     <link rel="stylesheet" type="text/css" href="css/custom.css">
-    <script src="js/jquery.js"></script>
-    <script src="js/materialize.min.js"></script>
+   
     <meta property="og:title" content="COMSAS"/>
     <meta property="og:description" content="Computer Science Association"/>
     <meta property="og:image" content="<?php echo 'http://'.$_SERVER['HTTP_HOST'].'/img/affiche1-mod.jpg' ?>"/>
 </head>
 
 <body>
-    <nav>
-        <div class="nav-wrapper black lighten-1">
-            <a href="/" class="brand-logo">ComSAs</a>
-            <ul class="right hide-on-med-and-down" id="nav-mobile">
-                <li class="active"><a href="/signup.php">Inscription</a></li>
+       <nav class="navbar navbar-inverse no-margin">
+        <div class="container-fluid">
+            <div class="navbar-header">
+            <a class="navbar-brand" href="/">COMSAS</a>
+        </div>
+            <ul class="nav navbar-nav navbar-right">
+                <li><a href="propos.php">A propos</a></li>
+                <li><a href="/signup.php">Inscription</a></li>
                 <li><a href="/login.php">Connexion</a></li>
                 <li><a href="/partner.php">Partenaires</a></li>
                 <li><a href="/article.php">Articles</a></li>
-                <li><a href="/projet.php">Projets</a></li>
+                <li><a href="/project.php">Projets</a></li>
                 <li><a href="/cours.php">Cours</a></li>
             </ul>
         </div>
     </nav>
     
     <main>
-    <div class="container">
+    <div >
         <div class="row center">
             <?php
                 if($mode == "signup")
@@ -104,33 +110,33 @@ elseif($_SERVER["REQUEST_METHOD"] === "GET")
     </div>
     </main>
 
-    <footer>
-        <div class="row black lighten-1 white-text">
-            <div class="col s6">
-                <div class="row">
-                    <div class="col s12 align">
+   
+    <footer class="navbar-fixed-bottom">
+        <div class="row ">
+           
+            <div class="col-sm-6">
+                
+                  
                         <h5 class="center red-text darken-3-text 16">Contacts</h5>
                         <p>E-mail: <a href="comsas@gmail.com">comsas@gmail.com</a></p>
                         <p>Tel: 693 138 363 / 695 660 689</p>
                         <p>Telegram: <a href="https://t.me/joinchat/Cq1P1EOj1KQLkbOxIIAAPA">COMSAS PUBLIC</a></p>
                         <p>Facebook: <a href="https://www.facebook.com/groups/159019330791993/">COMSAS</a></p>
-                    </div>
+                    
                     <div class="divider"></div>
-                    <div class="col s12 center footer-copyright">Copyright COMSAS 2017</div>
+                    <div class="col-sm-12">Copyright COMSAS 2017</div>
 
-                </div>
+               
             </div>
-            <div class="col s6">
+                       
+            <div class="col-sm-6">
                 <h5 class="center red-text darken-3-text">Calendrier</h5>
             </div>
+           
         </div>
     </footer>
-
-    <script type="text/javascript">
-        $(document).ready(function() {
-                $('select').material_select();
-            });
-    </script>
+    <script src="js/jquery.js"></script>
+    <script src="js/bootstrap.min.js"></script>
 </body>
 
 </html>              
