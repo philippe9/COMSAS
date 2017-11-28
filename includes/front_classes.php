@@ -562,12 +562,23 @@ class AffichFilleul extends Filleul
 
                     <div class="form-group">
                         <label for="numero">Numero</label>
-                        <input type="text" id="numero" name="numero" placeholder="Entrer votre numero" value="'.$numero.'"/>
+                        <input type="text" class="form-control" id="numero" name="numero" placeholder="Entrer votre numero" value="'.$numero.'"/>
                     </div>
-
+                    <div class="form-group">
+                    <label for="preference">Preference</label>
+                     <select class="form-control" id="fonction" name="preference">
+                        <option>Developpement web</option>
+                        <option>Developpement android</option>
+                        <option>Developpement desktop</option>
+                        <option>Reseaux</option>
+                        <option>Securite</option>
+                        <option>Maintenance / Architecture</option>
+                        <option>Inconnu</option>
+                    </select>
+                    </div>
                     <div class="form-group">
                         <label for="sexe">Sexe</label>
-                        <select name="sexe" id="sexe">
+                        <select name="sexe" id="sexe" class="form-control">
                             <option value="F">
                                 Feminin
                             </option>
